@@ -3,7 +3,7 @@ Projet 2 du parcours Développeur Applications Front-End openClassrooms - Intég
 
 URL : https://chalets-et-caviar.jeremie-holer.fr/
 
-#Résumé
+# Résumé
 
 Une agence immobilière possède une quinzaine de chalets de luxe à la vente et une vingtaine en location.
 
@@ -33,6 +33,6 @@ Lors d'une première réunion nous avons rencontré la directrice d'agence qui n
 - Charte graphique
 - Guide de l'utilisateur
 
-#Statut du projet
+# Statut du projet
 
 **Validé le 14 novembre 2019**
