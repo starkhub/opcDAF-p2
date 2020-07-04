@@ -27,7 +27,7 @@ Lors d'une première réunion nous avons rencontré la directrice d'agence qui n
 
 ##### 5 - Deux comptes éditeurs pour les collaborateurs de l'agence
 
-#Livrables fournis
+# Livrables fournis
 
 - Site Wordpress (Archive + BDD)
 - Charte graphique
